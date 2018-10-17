@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Spatiotemporal modeling",
+    "Bayesian statistics",
+    "Fisheries management"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Quantitative Ecology & Resource Management"
+  institution = "University of Washington"
+  year = "In progress"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MS in Statistics"
+  institution = "University of Alaska Fairbanks"
+  year = 2014
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BS in Biology & Physics"
+  institution = "Clarkson University"
   year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+John Best is a graduate student in the [Punt Lab](https://puntlab.washington.edu) at the University of Washington. He is in the third year of his PhD in the [Quantitative Ecology and Resource Management (QERM)](https://depts.washington.edu/qerm/) program. His research focuses on applying spatial and spatiotemporal modeling techniques to questions in ecology and particulary fisheries science. He is developing spatiotemporal models to combine fishery-independent (survey) and fishery-dependent data in an effort to improve indices of abundance. He is also developing techniques to improve spatial models by including nonstationary spatial effects. An additional project is focues on improving parameterizations for Bayesian state-space models to reduce bias and computation time.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
