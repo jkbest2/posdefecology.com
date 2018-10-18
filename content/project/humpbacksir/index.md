@@ -19,8 +19,8 @@ categories = []
   focal_point = "Center"
 +++
 
-This project is a collaboration between Alex Zerbini, Grant Adams, and myself. 
+This project is a collaboration between Alex Zerbini, [Grant Adams](https://grantdadams.wordpress.com/), and myself. 
 
-# Purpose
+We are working to update [Zerbini et al. (2006)](https://s3.amazonaws.com/academia.edu.documents/30238317/sc-58-sh2.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1539844419&Signature=JqXts%2B8oLrLq0yhrNTRlihRHLZ4%3D&response-content-disposition=inline%3B%20filename%3DA_Bayesian_assessment_of_the_conservatio.pdf). Additional data are being incorporated to make a more accurate assessment of the population. The software used to fit the model has been almost completely rewritten in order to increase both efficiency and flexibility.
 
-The Southern Atlantic population of humpback whales (*Megaptera novaeangliae*) has been exploited since the late 1800s. The population reached particularly low levels in the mid-20th century, but has been recovering since the cessation of most harvest in (year?). We have updated code originally written by Alex Zerbini that fits a Bayesian population model using importance sampling (particularly the SIR algorithm).
+This work was done with support from the Pew Charitable Trusts.
