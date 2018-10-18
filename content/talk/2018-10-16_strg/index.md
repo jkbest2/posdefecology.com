@@ -41,7 +41,7 @@ tags = ["INLA", "SPDE", "R", "Space-time Reading Group", "Spatial statistics", "
 url_pdf = ""
 url_slides = "talk_slides/2018-10-16_strg/ASMwSPDE_Ch1.html"
 url_video = ""
-url_code = ""
+url_code = "talk_slides/2018-10-16_strg/ASMwSPDE_Ch1.Rmd"
 
 # Does the content use math formatting?
 math = true
