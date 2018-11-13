@@ -1,5 +1,5 @@
 +++
-title = "Think Tank"
+title = "Reparameterizing Bayesian state-space models for more reliable fits"
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 draft = false
 
@@ -12,7 +12,7 @@ time_end = 2018-11-13T11:00:00
 authors = ["John Best"]
 
 # Abstract and optional shortened version.
-abstract = "TBA"
+abstract = "Bayesian state space models have played an important role in fisheries for many years. These models are typically fit using Markov chain Monte Carlo, often using general-purpose software such as BUGS, JAGS, and more recently Stan. Stan uses a sampler that takes advantage of gradient information to make proposals based on the solution of a system of ordinary differential equations. This typically results in less dependence between iterations. Areas of high curvature generate \"divergences,\" which serve as useful diagnostics, indicating areas of the parameter space that cannot be adequately explored. Not exploring the entire parameter space can result in biased inferences. Previous work has shown that the most reliable way of eliminating these divergences is to reparameterize the model in a way that eliminates areas of high curvature. Here I explore reparameterizations of the Schaefer biomass dynamics model and consequences for model fit diagnostics."
 abstract_short = "TBA"
 
 # Name of event and optional event URL.
@@ -39,7 +39,7 @@ tags = ["State-space models", "MCMC", "Bayesian statistics"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "talk_slides/2018-11-13_thinktank/thinktank.html"
 url_video = ""
 url_code = ""
 
