@@ -22,5 +22,3 @@ categories = []
 This project is a collaboration between Alex Zerbini, [Grant Adams](https://grantdadams.wordpress.com/), and myself. 
 
 We are working to update [Zerbini et al. (2006)](https://s3.amazonaws.com/academia.edu.documents/30238317/sc-58-sh2.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1539844419&Signature=JqXts%2B8oLrLq0yhrNTRlihRHLZ4%3D&response-content-disposition=inline%3B%20filename%3DA_Bayesian_assessment_of_the_conservatio.pdf). Additional data are being incorporated to make a more accurate assessment of the population. The software used to fit the model has been almost completely rewritten in order to increase both efficiency and flexibility.
-
-This work was done with support from the Pew Charitable Trusts.

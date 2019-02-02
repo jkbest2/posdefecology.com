@@ -24,7 +24,7 @@ weight = 5
 [[education.courses]]
   course = "MS in Statistics"
   institution = "University of Alaska Fairbanks"
-  year = 2014
+  year = 2016
 
 [[education.courses]]
   course = "BS in Biology & Physics"
