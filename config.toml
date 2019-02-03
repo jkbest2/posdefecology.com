@@ -317,7 +317,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Space-time Reading Group"
-  url = "https://peteragao.github.io/space-time-a18"
+  url = "https://peteragao.github.io/space-time/index.html"
   weight = 13
 
 # Link to a PDF of your resume/CV from the menu.
