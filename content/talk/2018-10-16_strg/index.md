@@ -17,7 +17,7 @@ abstract_short = "A discussion of [Chapter 1 in Advanced Spatial Modeling with S
 
 # Name of event and optional event URL.
 event = "Space-time Reading Group, Autumn 2018"
-event_url = "https://peteragao.github.io/space-time-a18/"
+event_url = "https://peteragao.github.io/space-time/a18.html"
 
 # Location of event.
 location = "Padelford C14A, University of Washington, Seattle, Washington"

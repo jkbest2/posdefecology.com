@@ -1,5 +1,5 @@
 +++
-title = "Advanced Spatial Modeling with SPDEs using R and INLA, Chapter 1"
+title = "Bayesian spatio-temporal modelling of anchovy abundance through the SPDE approach"
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 draft = false
 
@@ -14,7 +14,7 @@ authors = []
 # Abstract and optional shortened version.
 abstract = "A discussion of [Bayesian spatio-temporal modelling of anchovy abundance through the SPDE approach](https://www.sciencedirect.com/science/article/pii/S2211675317302816) by Quiroz and Prates for the Winter 2019 Space-time reading group at the University of Washington. This study models presence and abundance of Peruvian anchoveta based on acoustic survey data gathered between 1999 and 2007. Nine models were fit using INLA with different temporal, spatial, and spatio-temporal structure. They were compared for model fit and one-step-ahead predictive ability."
 
-abstract_short = "A discussion of [Bayesian spatio-temporal modelling of anchovy abundance through the SPDE approach](https://www.sciencedirect.com/science/article/pii/S2211675317302816) by Quiroz and Prates."
+abstract_short = "A discussion of [Bayesian spatio-temporal modelling of anchovy abundance through the SPDE approach](https://www.sciencedirect.com/science/article/pii/S2211675317302816) by Quiroz and Prates (2018)."
 
 # Name of event and optional event URL.
 event = "Space-time Reading Group, Winter 2019"
